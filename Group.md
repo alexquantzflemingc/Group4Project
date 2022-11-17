@@ -15,3 +15,4 @@ we could use this as our template https://joriche.github.io/index.html
 
 ### TO DO:
 Responsive design with set limits
+Design and implement a JavaScript based program
