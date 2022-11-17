@@ -10,3 +10,4 @@ will do xyz
 will do everything
 cant use VS Code
 Is in love with Jesus
+we could use this as our template https://joriche.github.io/index.html
