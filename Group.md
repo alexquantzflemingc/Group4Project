@@ -13,7 +13,7 @@
 ### Justin 
 #### 2 pages context/HTML
 #### Responsive page
-#### Images
+#### Images - in there own file within repository 
 #####
 ### Josh 
 #### 2 pages context/HTML
